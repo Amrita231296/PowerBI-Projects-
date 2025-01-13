@@ -21,11 +21,17 @@ KPI-
 
  DAX:
  Create below 5 KPIs as measure using DAX formulas provided:
+ 
  1-Total Orders = DISTINCTCOUNT(pizza_sales[order_id])
+ 
  2- Total pizzas sold = sum(pizza_sales[quantity])
+ 
  3- Total Revenue = sum(pizza_sales[total_price])
+ 
  4- Average Pizzas per Order = [Total pizzas sold]/[Total Orders]
+ 
  5-Average Order Value = [Total Revenue]/[Total Orders]
+ 
  Represent these 5 KPIs using card visual
  
 

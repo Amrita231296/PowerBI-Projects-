@@ -4,8 +4,11 @@
 
 KPI- 
 •	Create Map Visual to display Profit for each Country
+
 •	Create an Area Chart to display Date wise Profit, for Year and Month
+
 •	Create a Clustered Column Chart to display product wise Sum of Sales, add Segment for Legend value
+
 •	Create a Matrix Visual to display Segment and Product wise- Units sold
 
 
